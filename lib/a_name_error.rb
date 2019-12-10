@@ -1,3 +1,3 @@
-i"hello world"
+puts "hello world"
 
-i"hello world"
+puts "hello world"
